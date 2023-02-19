@@ -1,7 +1,7 @@
 import curses
 import os
 
-from CliUI.app import Screen
+from TUIcan.app import Screen
 
 SIZE = (60, 25)
 
